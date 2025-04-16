@@ -1,0 +1,10 @@
+DS_Store
+*.log
+*.zip
+.idea/
+.vscode/
+*.iml
+node_modules/
+vendor/
+tests/
+logs/
