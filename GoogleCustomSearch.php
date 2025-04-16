@@ -3,8 +3,8 @@
 class GoogleCustomSearch
 {
     // Clé API et ID moteur de recherche
-    private static string $apiKey = 'AIzaSyA5Iuc4V29gFJwIE_r1feYJzrM7JFYQifc';
-    private static string $cx     = '97d3c1375e318414b';
+    private static string $apiKey = 'YOUR_API_KEY';
+    private static string $cx     = 'YOUR_CUSTOM_SEARCH_ENGINE';
 
     // Dossier des logs
     private static string $logDir = __DIR__ . '/logs/';
